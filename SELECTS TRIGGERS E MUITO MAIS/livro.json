@@ -19,8 +19,8 @@
     "fone": "40028922",
     "email": "w@rkejrwqj.com.br"
   },
-  "autores": [
-    "jao",
-    "maria"
-  ]
+  "autores": {
+    "jao": {"telefone": "2903189238i1"},
+    "maria": {"telefone": "32121421", "endereco": "tesdss"}
+  }
 }]
