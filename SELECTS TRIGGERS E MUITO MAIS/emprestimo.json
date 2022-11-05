@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6365b352691a1fbb123eabf0"
+  },
+  "data_emprestimo": {
+    "$date": {
+      "$numberLong": "1667520000000"
+    }
+  },
+  "data_esperadadev": {
+    "$date": {
+      "$numberLong": "1667952000000"
+    }
+  },
+  "leitor": {
+    "nome": "marcos",
+    "wats": "99329080193"
+  },
+  "livros_emps": [
+    {
+      "$oid": "6365ad81691a1fbb123eabed"
+    },
+    {
+      "$oid": "6365ad81691a1fbb123eabed"
+    }
+  ]
+}]
