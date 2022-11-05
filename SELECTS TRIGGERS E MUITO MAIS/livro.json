@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6365ac17691a1fbb123eabec"
+  },
+  "nome": "html",
+  "classif": "informatica",
+  "autores": [
+    "ana",
+    "patricia"
+  ]
+},{
+  "_id": {
+    "$oid": "6365ad81691a1fbb123eabed"
+  },
+  "nome": "php",
+  "classif": "informatica",
+  "editora": {
+    "nome": "campus",
+    "fone": "40028922",
+    "email": "w@rkejrwqj.com.br"
+  },
+  "autores": [
+    "jao",
+    "maria"
+  ]
+}]
