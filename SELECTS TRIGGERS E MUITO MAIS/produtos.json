@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "636ee2a8372628b4b03c740d"
+  },
+  "nome": "produto1",
+  "preco": 9.99
+},{
+  "_id": {
+    "$oid": "636ee2db372628b4b03c740e"
+  },
+  "nome": "produto2",
+  "preco": 6.32
+}]

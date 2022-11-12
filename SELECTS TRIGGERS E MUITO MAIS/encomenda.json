@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "636ee307372628b4b03c7411"
+  },
+  "data": "2022-11-11",
+  "fornecedor": {
+    "nomefantasia": "zupiter festas",
+    "contato": {
+      "nome": "seu zé",
+      "telefone": 40028922
+    },
+    "produtos": [
+      {
+        "id_": "636ee2a8372628b4b03c740d",
+        "qtd": 4
+      },
+      {
+        "id_": "636ee2db372628b4b03c740e",
+        "qtd": 40
+      },
+      {
+        "id_": "636ee2db372628b4b03c740f",
+        "qtd": 2
+      }
+    ]
+  }
+}]
